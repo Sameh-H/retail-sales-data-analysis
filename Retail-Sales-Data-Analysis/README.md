@@ -97,8 +97,8 @@ This project is intended as a **beginner-level data analysis project**, demonstr
 
 ## 🧢 Author
 
-Sameh Hawamdah
-Data Analysis Enthusiast
+- Sameh Hawamdah
+- Data Analysis Enthusiast
 
 📍 Palestine
 
@@ -106,4 +106,5 @@ Data Analysis Enthusiast
 
 
 ⭐ This project represents my learning journey in data analysis. Feedback is always welcome.
+
 
