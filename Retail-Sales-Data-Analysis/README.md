@@ -68,22 +68,22 @@ This project is intended as a **beginner-level data analysis project**, demonstr
 ---
 
 ## 📁 Project Structure
-Retail-Sales-Data-Analysis/
-  data/
-    retail_sales_dataset_cleaned.csv
+- Retail-Sales-Data-Analysis/
+-   data/
+-     retail_sales_dataset_cleaned.csv
   
-  notebooks/
-    Retail_Sales_Dataset_Cleaned_EDA.ipynb
+-   notebooks/
+-     Retail_Sales_Dataset_Cleaned_EDA.ipynb
   
-  visuals/
-    gender_sales_distribution.png
-    monthly_sales_trend.png
-    price_per_unit_distribution.png
-    product_category_distribution.png
-    sales_by_category.png
+-   visuals/
+-     gender_sales_distribution.png
+-     monthly_sales_trend.png
+-     price_per_unit_distribution.png
+-     product_category_distribution.png
+-     sales_by_category.png
   
-  requirements.txt
-  README.md
+-   requirements.txt
+-   README.md
 
 ---
 
@@ -106,3 +106,4 @@ Data Analysis Enthusiast
 
 
 ⭐ This project represents my learning journey in data analysis. Feedback is always welcome.
+
